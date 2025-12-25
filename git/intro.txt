@@ -6,5 +6,5 @@
     - git clone <URL>
 -> to uplod a code 
     - add the file which you want to commit - git add . -> all file 
-    - commit the code - git commit -m "relevent msg"
-    - push the code  - git push
+    - commit the code in local - git commit -m "relevent msg"
+    - push the code in remore repo  - git push
