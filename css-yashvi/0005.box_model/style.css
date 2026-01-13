@@ -1,0 +1,47 @@
+.containere_1 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  /* padding: 10px; */
+  /* padding-top: 10px; */
+  /* padding: 10px 20px; */
+  padding: 15px 20px 30px 50px;
+}
+.containere_1_child {
+  /* width: 50px; */
+  /* height: 50px; */
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+}
+
+.containere_2 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid rgb(197, 36, 36);
+  margin: 10px 0px;
+}
+
+.containere_3 {
+  width: 100px;
+  height: 100px;
+  /* border: 1px solid rgb(197, 36, 36); */
+  background-color: red;
+}
+
+.containere_4 {
+  width: 100px;
+  height: 100px;
+  border: 5px solid rgb(0, 0, 0);
+  box-sizing: border-box;
+}
+
+
+.containere_5{
+    height: 200px;
+    background-color: gray;
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    overflow: auto;
+    /* overflow-y: scroll; */
+}
