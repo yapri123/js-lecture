@@ -1,5 +1,7 @@
 * {
   font-family: "Inter", sans-serif;
+  padding: 0px;
+  margin: 0px;
 }
 
 body {
@@ -58,4 +60,41 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
+}
+
+.sub_header_container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  list-style: none;
+  gap: 20px;
+  border-bottom: 1px solid rgba(165, 154, 154, 0.562);
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.main_container {
+  background-color: #f1f3f6;
+  padding: 8px;
+}
+
+.title_container > p {
+  font-size: 12px;
+}
+.product_container {
+  height: 200px;
+  background-color: red;
+  display: flex;
+}
+
+.side_bar_container {
+  height: 100%;
+  width: 25%;
+  background-color: green;
+}
+
+.data_container {
+  width: 75%;
+  background: yellow;
 }

@@ -1,0 +1,19 @@
+.containere_1 {
+  background-color: lightgray;
+}
+
+.containere_1_child {
+  background-color: red;
+  /* display: inline; */
+  /* display: none; */
+
+
+}
+
+
+.shadow_div{
+  height: 100px;
+  width: 100px;
+  box-shadow: 10px 10px 10px red;
+  border: 1px solid black;
+}
